@@ -6,7 +6,8 @@ set(SOLUTION_FILES
     solutions/binary_tree_preorder_traversal.h
     solutions/climbing_stairs.h
     solutions/linked_list_cycle.h
-    solutions/populating_next_right_pointers_in_each_node.h)
+    solutions/populating_next_right_pointers_in_each_node.h
+    solutions/powx_n.h)
 
 set(SOURCE_FILES
     main.cpp)
