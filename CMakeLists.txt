@@ -7,6 +7,7 @@ set(SOLUTION_FILES
     solutions/binary_tree_inorder_traversal.h
     solutions/binary_tree_preorder_traversal.h
     solutions/climbing_stairs.h
+    solutions/factorial_trailing_zeroes.h
     solutions/linked_list_cycle.h
     solutions/populating_next_right_pointers_in_each_node.h
     solutions/powx_n.h
